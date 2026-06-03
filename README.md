@@ -28,7 +28,7 @@ student_management_system/
 └── README.md
 ```
 
-## Database Setup
+## Database Setup   
 
 ### Create Database
 
