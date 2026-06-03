@@ -6,7 +6,7 @@ The Student Management System is a backend application developed using Flask and
 
 ## Features
 
-* Add Student Records
+* Add Student Records   
 * View Student Records    
 * Update Student Information        
 * Delete Student Records
