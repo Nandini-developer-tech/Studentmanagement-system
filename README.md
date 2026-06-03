@@ -30,7 +30,7 @@ student_management_system/
 
 ## Database Setup   
 
-### Create Database
+### Create Database    
 
 ```sql
 CREATE DATABASE student_db;
