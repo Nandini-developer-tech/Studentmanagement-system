@@ -53,7 +53,7 @@ CREATE TABLE students(
 );
 ```
 
-## Database Connection
+## Database Connection   
 
 Configure the database connection in `db.py`.
 
