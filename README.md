@@ -4,7 +4,7 @@
 
 The Student Management System is a backend application developed using Flask and MySQL. It allows users to perform CRUD operations on student records stored in a MySQL database.
 
-## Features
+## Features   
 
 * Add Student Records       
 * View Student Records       
