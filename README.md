@@ -20,7 +20,7 @@ The Student Management System is a backend application developed using Flask and
 
 ## Project Structure
 
-```text
+```text    
 student_management_system/
 │
 ├── app.py
