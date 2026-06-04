@@ -70,7 +70,7 @@ db = mysql.connector.connect(
 cursor = db.cursor()
 ```
 
-## Running the Application
+## Running the Application   
 
 ```bash
 python app.py
